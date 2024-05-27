@@ -12,6 +12,10 @@ Here you will find everything from my notes to my certificate. I have structured
 - **Handwritten Notes:** Detailed handwritten notes covering various topics in C programming.
 - **Assignment Questions:** A PDF containing more than 18 assignments to practice and solidify your understanding of C.
 - **Certificate:** Proof of completion of my C language course from the well-known platform MYSirG.com, instructed by Sourabh Shukla sir.
+
+- certificate link
+https://premium.mysirg.com/learn/certificate/5379191-111874
+
 - **Problem Solutions:** Solutions to some good basic problems in C language to help you understand practical applications of concepts.
 
 ### Notes
