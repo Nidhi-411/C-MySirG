@@ -8,7 +8,9 @@ Hey there, this is Nidhi Yadav. Welcome to my C Language repository! This is my 
 ### What's Inside?
 Here you will find everything from my notes to my certificate. I have structured the repository to help you easily navigate through different resources related to my C programming learning journey.
 
+- **syllabus Pdf:** Syllabus pdf where you can see all the topics that have been declared here. 
 ### Repository Contents
+
 - **Handwritten Notes:** Detailed handwritten notes covering various topics in C programming.
 - **Assignment Questions:** A PDF containing more than 18 assignments to practice and solidify your understanding of C.
 - **Certificate:** Proof of completion of my C language course from the well-known platform MYSirG.com, instructed by Sourabh Shukla sir.
